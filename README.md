@@ -1,18 +1,23 @@
-## Hey! 👋
+# Hey! 👋
 
-Linkedin: https://www.linkedin.com/in/ismail-mansuri-670648240
+**AI Engineer | Full-Stack Developer | Android Developer | AI/ML | Model Training & Deployment**
 
-<!--
-**beyondruntime/beyondruntime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer interested in building practical software solutions across AI, web, and mobile development. I enjoy exploring new technologies, solving problems, and turning ideas into useful applications.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in artificial intelligence and machine learning
+- Building full-stack web applications and Android apps
+- Exploring model training, evaluation, and deployment
+- Continuously learning and improving my technical skills
+- Open to collaboration and open-source contributions
+
+### Connect with Me
+
+- **Website:** [mansurii.com](https://mansurii.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ismail-mansuri-670648240)
+- **Email:** [mansuriismail565@gmail.com](mailto:mansuriismail565@gmail.com)
+
+---
+
+Thanks for stopping by!
